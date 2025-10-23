@@ -147,7 +147,7 @@ jobs:
           upload_artifacts: '${{ vars.UPLOAD_ARTIFACTS }}'
           extensions: |
             [
-              "https://github.com/gemini-cli-extensions/security.git@v0.3.0"
+              "https://github.com/gemini-cli-extensions/security.git"
             ]
           settings: |-
             {
